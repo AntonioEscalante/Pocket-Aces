@@ -22,6 +22,10 @@ h4{
   font-family: 'Montserrat', sans-serif;
 
 }
+h6
+{margin-bottom: 0 auto 0 auto;
+  
+}
 .top-container {
   background-color: #48D1CC;
   width: auto;
