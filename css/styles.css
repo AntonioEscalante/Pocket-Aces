@@ -5,32 +5,32 @@ body {
 }
 
 h1 {  
-  color: #66BFBF;
+  color:#66BFBF;
   margin-top: 0;
   font-family: 'Sacramento', cursive;
   font-size: 80px;
 }
 
 h2 {  
-  color: #66BFBF;
+  color:#66BFBF;
   font-family: 'Montserrat', sans-serif;
   font-size: 40px;
 }
 
-h3 {  color: #66BFBF;
+h3 {  color:#66BFBF;
 
 }
-h4{  color: #66BFBF;
+h4{  color:#66BFBF;
   font-family: 'Montserrat', sans-serif;
 
 }
 h6
-{  color: #66BFBF;
+{  color:#66BFBF;
   margin-bottom: 0 auto 0 auto;
   
 }
 .top-container {
-  background-color: #AFEEEE;
+  background-color:#AFEEEE;
   width: auto;
   height: auto;
   position: relative;
