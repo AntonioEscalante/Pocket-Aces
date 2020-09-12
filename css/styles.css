@@ -3,12 +3,7 @@ body {
   text-align: center;
   font-family: 'Merriweather', serif;
   }
-hr{ background-color: white;
-  border-style:none;
-  border-top-style: dotted;
-  border-color:grey;
-  border-width: 10px;
-  width: 20%;}
+
 h1 {  
   color:#66BFBF;
   margin-top: 0;
@@ -73,3 +68,13 @@ left:200px;
   bottom:50px;
 
 }
+hr
+{ background-color: white;
+  border-style:none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width: 10px;
+  width: 20%;
+}
+
+
