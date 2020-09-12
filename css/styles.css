@@ -2,14 +2,13 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  
-}
+  }
 hr{ background-color: white;
   border-style:none;
   border-top-style: dotted;
   border-color:grey;
   border-width: 10px;
-  width: 20%;
+  width: 20%;}
 h1 {  
   color:#66BFBF;
   margin-top: 0;
