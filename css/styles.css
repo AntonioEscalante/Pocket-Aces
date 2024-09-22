@@ -74,28 +74,6 @@ hr { background-color: white;
   border-width: 10px;
   width: 20%;
 }
-body {
-  font-family: 'Montserrat', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-  background-color: #f4f4f9;
-}
-.btn--contact {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  color: white;
-  background-color: #007bff;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-}
 
-.btn--contact:hover {
-  background-color: #0056b3;
-}
 
 
