@@ -74,5 +74,19 @@ hr { background-color: white;
   border-width: 10px;
   width: 20%;
 }
+a {text-decoration: none;
+color: inherit; #fff;}
+.bnt{ background-color:#fff;
+font-size: 12px;
+font-weight: 500;
+text-transform: uppercase;
+color:#000;
+padding: 10px 20px;
+border-radius: 5000px;
+transition: transform 0.3s;
+}
+.btn:hover {
+transform: scale(1.15);
+}
 
 
